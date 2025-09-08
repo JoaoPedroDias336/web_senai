@@ -1,0 +1,20 @@
+p{
+    text-align: center;
+    color: red;
+}
+
+#text-maior{
+    font-size: 32px;
+    font-family: "Arial";
+}
+
+.Text-black{
+    color: white;
+    background-color: red;
+    font-size: 36px;
+    display: inline;
+}
+
+.Plano-de-Fundo{
+    background-color: black;
+}

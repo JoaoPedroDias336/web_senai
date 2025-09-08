@@ -1,0 +1,56 @@
+p{
+    color: black;
+    text-align: center;
+    font-size: 36px;
+}
+
+.Plano-de-Fundo{
+    background-color: yellow;
+}
+
+.Plano-Lista{
+    background-color: white;
+}
+
+.Verde{
+    background-color: gray;
+    color: green;
+}
+
+.Vermelho{
+    background-color: gray;
+    text-align: center;
+    color: red;
+
+}
+
+.Azul{
+    background-color: gray;
+    text-align: end;
+    color: blue;
+}
+
+.Roxo{
+    background-color: gray;
+    text-align: center;
+    color: purple;
+}
+
+.Amarelo{
+    background-color: gray;
+    text-align: left;
+    color: yellow;
+}
+
+.Rosa{
+    background-color: gray;
+    text-align: center;
+    color: deeppink;
+}
+
+#text-maior:hover {
+    color: black;
+    font-size: 32px;
+    background-color: white;
+    text-align: left;
+}
