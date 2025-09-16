@@ -1,0 +1,37 @@
+.plano-de-fundo{
+    background-color: lightblue;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-size: 36px;
+}
+
+.div-1 {
+    background-color: green;
+    height: 100px;
+    text-align: center;
+}
+
+.div-2{
+    background-color: blue;
+    height: 200px;
+    width: 48%;
+    display: inline-block;
+    text-align: center;
+}
+
+.div-3{
+    display: inline-block;
+    background-color: yellow;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+}
+
+.div-4{
+    background-color: green;
+    height: 100px;
+    text-align: center;
+}
