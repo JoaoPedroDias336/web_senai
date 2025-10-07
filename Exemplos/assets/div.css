@@ -1,0 +1,72 @@
+.body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Pai{
+    display: flex;
+    background: green;
+    border: solid black;
+}
+
+.Pai div{
+    border: solid black;
+    background-color: aquamarine;
+    flex: auto;
+    text-align: center;
+}
+
+.Pai-1{
+    display: flex;
+    flex-direction: column;
+    background: green;
+    border: solid black;
+}
+
+.Pai-1 div{
+    border: solid black;
+    background-color: aquamarine;
+    flex: auto;
+    text-align: center;
+}
+
+.section{
+    display: flex;
+    border: 1px solid red;
+    padding: 5px;
+
+}
+
+.left, .right {
+    flex: auto;
+    border: 1px solid black;
+}
+
+.Pai-2-l{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+
+}
+
+.Pai-2-l div{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+.Pai-2-r{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    justify-content: center;
+    height: 200px;
+
+}
+
+.Pai-2-r div{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
