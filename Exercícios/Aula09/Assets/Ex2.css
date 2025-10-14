@@ -1,0 +1,42 @@
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: midnightblue;
+    color: #288eff;
+    font-family: Arial;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.time{
+    background-color: white;
+    color: #041556;
+    font-weight: bold;
+    text-align: left;
+}
+
+.number{
+    background-color: #31ffff;
+    color: #041556;
+    font-weight: bold;
+}
+
+.verde{
+    color: #01ff00;
+}
+
+.Azul{
+    color: #00cbff;
+}
+
+.Amarelo{
+    color: #ffd916;
+}
+
+.branco{
+    color: white;
+}
+
+.red{
+    color: red;
+}
